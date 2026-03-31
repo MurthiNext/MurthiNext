@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=350&size=30&duration=3000&pause=1000&random=true&width=650&separator=%3D&lines=print(%22Hello%2C+World!%22)%3Dprintf(%22Hello%2C+World!%22);%3Dstd%3A%3Acout+%3C%3C+%22Hello+World!%22;%3DSystem.out.println(%22Hello%2C+World!%22);%3Dfmt.Println(%22Hello%2C+World!%22)%3Ddocument.write('Hello%2C+World!');%3Decho+%22Hello%2C+World!%22)](https://git.io/typing-svg)
 
-[![MurthiNext's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurthiNext&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
 
 ## 感谢你能来看我的个人介绍~要来了解我嘛？
 
