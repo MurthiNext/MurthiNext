@@ -15,9 +15,9 @@
 - 朋友数量为零，可喜可贺。
 
 ## 联系方式
-- ![Bilibili](./profile/bilibili.svg){:height="20px" width="20px"} 哔哩哔哩: [MurthiNext](https://space.bilibili.com/596955075)
-- ![GitHub](./profile/github.svg){:height="20px" width="20px"} GitHub: [MurthiNext](https://github.com/MurthiNext/)
-- ![Gmail](./profile/gmail.svg){:height="20px" width="20px"}电子邮箱: MurthiNext@gmail.com
+- <img src="./profile/bilibili.svg" width="20px" height="20px"> 哔哩哔哩: [MurthiNext](https://space.bilibili.com/596955075)
+- <img src="./profile/github.svg" width="20px" height="20px"> GitHub: [MurthiNext](https://github.com/MurthiNext/)
+- <img src="./profile/gmail.svg" width="20px" height="20px"> 电子邮箱: MurthiNext@gmail.com
 
 ## 近期贡献
 ![Stats](./profile/stats.svg)
