@@ -17,8 +17,10 @@
 <tr><td>
 
 ### Recently
+
 ![Stats](./profile/stats.svg)
 ![MurthiNext's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MurthiNext&theme=react&height=300)
+<div>&nbsp;</div>
 
 </td></tr>
 
