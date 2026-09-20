@@ -9,7 +9,8 @@
 <img align="right" width="150" src="./images/suzuminemo.png" />
 <p>&emsp;&emsp;这里是 MurthiNext！拥有极客精神的<s>カミサマ</s>一枚！</p>
 <p>&emsp;&emsp;我对计算机的一切都充满兴趣，并且都有很深入的了解。例如软件开发，基本的硬件维护，或者是算法、计算机底层之类的东西。<em>喜欢住在IDC机房。</em>大概，不喜欢打比赛。</p>
-<p>&emsp;&emsp;理论上，我能做的很多，实际上，我做出的很少。目前常驻于开源社区写出妙妙代码，我人生的未来还尚不明朗。</p>
+<p>&emsp;&emsp;理论上，我能做的很多，不过，我还在为这一切所努力。愿美好与你同在。</p>
+<p>&emsp;&emsp;奇迹只是开始，志向即是明日！</p>
 <div>&nbsp;</div>
 
 </td></tr>
@@ -19,7 +20,7 @@
 ### Recently
 
 ![Stats](./profile/stats.svg)
-![MurthiNext's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MurthiNext&theme=react&height=300)
+![MurthiNext's github activity graph](./profile/activity-graph.svg)
 <div>&nbsp;</div>
 
 </td></tr>
